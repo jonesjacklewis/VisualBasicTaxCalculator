@@ -1,0 +1,12 @@
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.exe.config
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.exe
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.pdb
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.xml
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.vbprojAssemblyReference.cache
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax_Calculator.Form1.resources
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax_Calculator.Resources.resources
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.vbproj.GenerateResource.cache
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.exe
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.xml
+C:\Users\jacks\Documents\001 Learning Programming\Coding\VisualBasic\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.pdb
